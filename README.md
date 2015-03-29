@@ -18,7 +18,7 @@ There are a few environment variables that can be set to control how the webapp 
 * `HTTP_BASIC_PASSWORD`  An HTTP Basic Auth password can be required (also requires a username)
 * `IP`  The IP address to listen on (defaults to 0.0.0.0)
 * `PORT`  The port to listen on for HTTP requests (defaults to 8080)
-* `KEEPALIVE_URL`  A URL to ping regularly to keep the app marked as active (useful for Heroku) This should be set to http://<your site>/ping
+* `KEEPALIVE_URL`  A URL to ping regularly to keep the app marked as active (useful for Heroku) This should be set to http://_your site_/ping
 
 Requires go 1.0 (or higher) and phantomjs.
 
