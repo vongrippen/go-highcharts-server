@@ -1,0 +1,1 @@
+web: go-highcharts-server
