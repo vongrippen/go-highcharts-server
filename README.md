@@ -38,7 +38,7 @@ brew install phantomjs
 
 Start up the server
 ```bash
-go run
+go run main.go
 ```
 
 Generate a chart using curl
